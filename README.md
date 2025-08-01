@@ -48,7 +48,7 @@ AWS Serverless Lambda function that sends log data from CloudWatch Logs and S3.
         ]
     }
     ```
-
+### ceci est un test
 1. ### Lambda IAM Policy
 
     Create a new IAM Policy `ListBucketPolicy` with the following  configuration. _If you want, restrict it only to the buckets of your interests, in resources section_.
